@@ -2,7 +2,7 @@
 
 This autonomous robot is designed for an artificial city where nodes represent the centers of attraction and the weights represent the traffic in the city. We use Pixy camera, Arduino Uno, Sensors and 2 motors and a chassis and run the shortest path algorithm to keep track of the location and find the path.
 
-<img src="https://user-images.githubusercontent.com/28577229/38979891-4a51c466-4370-11e8-9399-fa5257dff9e2.jpeg" width="2000" height="2667">
+<img src="https://user-images.githubusercontent.com/28577229/38979891-4a51c466-4370-11e8-9399-fa5257dff9e2.jpeg" width="500" height="700">
 
 ![final2]()
 
