@@ -14,11 +14,17 @@ We gave the robot this graph and it solved it pretty quick. See if you can find 
 
 The following components are used:
 1)Pixy camera
+
 2)Arduino uno
+
 3)Motor drivers
+
 4)Motors
+
 5)Rechargable Ion batteries
+
 6)Jumper wires
+
 ### This robot was showcased at the UCLA engineering open house and attracted a significant amount of attention from the visitors.
 
 ## Description:
