@@ -8,7 +8,7 @@ Check out the video of our robot here:
 
 
 #### The city is modeled as the following image:
-
+![final](https://user-images.githubusercontent.com/28577229/38979575-667b7f8e-436f-11e8-865a-a90a8ee3d697.jpeg)
 
 
 We gave the robot this graph and it solved it pretty quick. See if you can find the shortest path from start to end!
