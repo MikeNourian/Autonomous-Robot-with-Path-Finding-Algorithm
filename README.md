@@ -3,7 +3,8 @@
 This autonomous robot is designed for an artificial city where nodes represent the centers of attraction and the weights represent the traffic in the city. We use Pixy camera, Arduino Uno, Sensors and 2 motors and a chassis and run the shortest path algorithm to keep track of the location and find the path.
 
 Check out the video of our robot here:
-Autonomous Path Finding Robot[https://vimeo.com/265468872]
+
+[Autonomous Path Finding Robot](https://vimeo.com/265468872)
 
 
 #### The city is modeled as the following image:
@@ -13,6 +14,7 @@ Autonomous Path Finding Robot[https://vimeo.com/265468872]
 We gave the robot this graph and it solved it pretty quick. See if you can find the shortest path from start to end!
 
 The following components are used:
+
 1)Pixy camera
 
 2)Arduino uno
